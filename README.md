@@ -1,1 +1,1 @@
-# salt4data
+Keesha Orlene Ngombo Mouelet is a vibrant force of curiosity and purpose — a brilliant data storyteller with a heart for impact. Gabonese-Nigerian by roots, global in vision, she blends sharp statistical mastery with business savvy, turning numbers into bridges for economic growth and social change. Whether teaching, analyzing markets, or exploring the streets of Cleveland, Keesha moves with adaptability, intention, and a drive to lift communities. Bilingual, resourceful, and endlessly learning, she’s not just chasing success — she’s shaping it.
