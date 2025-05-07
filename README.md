@@ -23,3 +23,9 @@ What changed? **Reach out and you might change your mind about it as well**
   
 ---
 “Give me numbers, and I’ll tell you a story.”
+
+---
+<details close>
+<summary>:zap: GitHub Statistics</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=salt4data&show_icons=true&theme=nord" width="400px">
+</details>
